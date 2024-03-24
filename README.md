@@ -1,7 +1,3 @@
-# Nlits-Projects
-This is just another place for my more formal and newer projects.
+# .github
 
-The projects posted here will hopefully be:
-* Higher Quality
-* Maintained (At least on request)
-* In Nim :)
+Orginization reamde here :)
